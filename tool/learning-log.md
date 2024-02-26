@@ -15,6 +15,10 @@ Project: **REST API that serves train and animal images**
 2/5/24
 * Today, I started experimenting with Mongoose because of a tutorial I found, and I quickly realized it wasn't gonna work, as I keep getting errors.
 ![Mongoose Error](image.png)
+
+
+2/26/24
+* Today, I looked into alternatives to Mongoose and found `database.js`. This may be a viable alternative as it supports everything from `.CSV` files to `.JSON` files being used as databases.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
